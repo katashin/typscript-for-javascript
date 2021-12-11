@@ -1,2 +1,2 @@
-let message: string = '今日もいい天気ですね。';
+let message: string = '優介くん、お誕生日おめでとうございます！';
 console.log({ message });
