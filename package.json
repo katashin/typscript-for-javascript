@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/katashin/typscript-for-javascript/issues"
   },
-  "homepage": "https://github.com/katashin/typscript-for-javascript#readme"
+  "homepage": "https://github.com/katashin/typscript-for-javascript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
